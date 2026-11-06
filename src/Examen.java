@@ -31,4 +31,4 @@ public class Examen {
     }
 }
 
-//Los errores del ejercicio eran que el "p2 * u2" estaba sumando en vez de multiplicar, las unidades estaban en int y las cambie a double para que cuando se divide salgan decimales y por ultimo el en el pago de los plazos habia que poner parentesis a las sumas porque en las matematicas se prioriza las divisiones y multiplicaciones.
+//Los errores del ejercicio eran que el  "p2 * u2" estaba sumando en vez de multiplicar, las unidades estaban en int y las cambie a double para que cuando se divide salgan decimales y por ultimo el en el pago de los plazos habia que poner parentesis a las sumas porque en las matematicas se prioriza las divisiones y multiplicaciones.
